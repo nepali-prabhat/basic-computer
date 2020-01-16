@@ -9,7 +9,7 @@ const command = [
     "DATA INT 10",
     "NULL",
     "0 SUB 0006",
-    "0 BUN 0003",
+    "1 BUN 0008",
     "NULL",
     "DATA ADD 0006",
 ]
