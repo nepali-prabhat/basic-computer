@@ -7,7 +7,7 @@ const command = [
     "NULL",
     "DATA INT 20",
     "DATA INT 10",
-    "NULL",
+    "NULL",    //0003
     "0 SUB 0006",
     "1 BUN 0008",
     "NULL",
@@ -18,3 +18,5 @@ const core = require('./core');
 // core.symbollTable();
 let finalRAMCode = core.codeGen(command);
 clipboardy.writeSync(finalRAMCode);
+
+30
