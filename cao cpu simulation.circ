@@ -3257,6 +3257,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="in_width" val="15"/>
       <a name="out_width" val="20"/>
     </comp>
+    <comp lib="0" loc="(2210,1480)" name="Probe">
+      <a name="facing" val="west"/>
+    </comp>
     <comp lib="1" loc="(590,1680)" name="NOR Gate">
       <a name="size" val="30"/>
       <a name="inputs" val="2"/>
