@@ -112,4 +112,4 @@ function code_gen(command){
 function symbollTable(){
     console.log({MRI:mri_symbol_table, RRI:rri_symbol_table, IOI:ioi_symbol_table});
 }
-module.exports = {codeGen: code_gen, symbollTable:symbollTable, htb}
+module.exports = {codeGen: code_gen, symbollTable:symbollTable, htb, dth}
