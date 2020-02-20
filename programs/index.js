@@ -1,15 +1,4 @@
 let command = []
-// command = [
-//     '0 LDA 0008',
-//     'r CME',
-//     'r CIR',
-//     'r INC',
-//     'r SHL',
-//     'r CIL',
-//     '0 STA 0009',
-//     'r HLT',
-//     'DATA INT 1300',
-// ]
 command = [
     "1 LDA 000c",
     "0 ADD 0007",
