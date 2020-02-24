@@ -6,13 +6,13 @@ command = [
     "0 STA 0005",
     "r HLT",
     "NULL",
-    "DATA INT 20",
+    "DATA INT 50",
     "DATA INT 10",
     "NULL",    //0003
     "0 SUB 0006",
     "1 BUN 0008",
     "NULL",
-    "DATA ADD 0006",
+    "DATA ADD 0006",    
 ]
 const clipboardy = require('clipboardy');
 const core = require('./core');
