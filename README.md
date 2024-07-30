@@ -1,5 +1,5 @@
-# CPU-SIMULATION
-Logisim CPU simulation
+# Simulation of Basic Computer (Computer Architecture)
+Logisim CPU simulation of a basic computer
 
 The Basic Computer Simulation Based on computer architecture book:
 
